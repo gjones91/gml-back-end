@@ -1,0 +1,75 @@
+[ 
+    {
+        "Manufacturer": "Aria",
+        "Year Founded": 1956,
+        "Headquarters": "Nagoya, Japan",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Charvel",
+        "Year Founded": 1974,
+        "Headquarters": "Scottsdale, United States",
+        "Guitar Types": "Electric"
+    },
+    {
+        "Manufacturer": "Dusenberg",
+        "Year Founded": 1986,
+        "Headquarters": "Hannover, Germany",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Fender",
+        "Year Founded": "1946",
+        "Headquarters": "Fullerton, United States",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Gibson",
+        "Year Founded": "1902",
+        "Headquarters": "Nashville, United States",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Gretsch",
+        "Year Founded": "1883",
+        "Headquarters": "Savannah, United States",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Ibanez",
+        "Year Founded": "1957",
+        "Headquarters": "Nagoya, Japan",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Jackson",
+        "Year Founded": "1980",
+        "Headquarters": "Scottsdale, United States",
+        "Guitar Types": "Electric"
+    },
+    {
+        "Manufacturer": "PRS",
+        "Year Founded": "1985",
+        "Headquarters": "Stevensville, United States",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Rickenbacker",
+        "Year Founded": "1931",
+        "Headquarters": "Santa Ana, United States",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Tokai",
+        "Year Founded": "1947",
+        "Headquarters": "Hamamatsu, Japan",
+        "Guitar Types": "Electric, Acoustic"
+    },
+    {
+        "Manufacturer": "Yamaha",
+        "Year Founded": "1887",
+        "Headquarters": "Hamamatsu, United States",
+        "Guitar Types": "Electric, Acoustic"
+    }
+
+]
